@@ -12,8 +12,8 @@ their concrete classes.**
    Customers get quite mad when they receive non-matching furniture.
 3. We also need to handle the case of when furniture vendors update their catalogs, so we shouldn't change base code.
 
+<img src="C:\Users\markb\PycharmProjects\SoftwareEngineering\AbstractFactory\Screenshot 2022-06-18 154240.jpg"/>
 
-![](C:\Users\markb\PycharmProjects\SoftwareEngineering\AbstractFactory\Screenshot 2022-06-18 154240.jpg)
 
 
 **SOLUTION**
