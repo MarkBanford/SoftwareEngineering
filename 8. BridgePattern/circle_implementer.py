@@ -1,6 +1,7 @@
 "A Circle Implementer"
 from interface_shape_implementer import IShapeImplementer
 
+
 class CircleImplementer(IShapeImplementer):
     "A Circle Implementer"
 

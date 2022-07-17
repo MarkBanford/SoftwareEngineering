@@ -1,6 +1,7 @@
 "A Circle Abstraction"
 from interface_shape import IShape
 
+
 class Circle(IShape):
     "The Circle is a Refined Abstraction"
 
